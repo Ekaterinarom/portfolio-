@@ -1,0 +1,92 @@
+.bacr{
+    background: url(../img/1642954811_1-phonoteka-org-p-fon-dlya-slaida-v-prezentatsii-1.jpg);
+    display: flex;
+}
+.bacr img{
+    width: 650px;
+    height: 500px;
+}
+.try h1{
+    margin-left: 100px;
+}
+@font-face {
+    font-family:'NunitoSans' ;
+    src: url(../fonts/NunitoSans.ttf);
+}
+.try{
+    font-family: 'NunitoSans';
+}
+.try a{
+    color: black;
+}
+.tre{
+    background: url(../img/1642954811_1-phonoteka-org-p-fon-dlya-slaida-v-prezentatsii-1.jpg);
+}
+.tre img{
+    width: 400px;
+    height: 400px;
+}
+.oil  img{
+    width: 300px;
+    height: 250px;
+}
+.op1 img{
+    width: 400px;
+    height: 200px;
+}
+.op2 img{
+    width: 400px;
+    height: 200px;
+}
+.op1{
+    display: block;
+}
+.op1 a{
+    margin-left: 30px;
+    margin-top: 150px;
+    font-size: 20px;
+
+}
+.op2{
+    display: flex;
+}
+.op2 a{
+    margin-top: 150px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.op3{
+    display: block;
+}
+.op3 img{
+    width: 400px;
+    height: 200px;
+   
+}
+.op3 a{
+    margin-left: 30px;
+    margin-top: 150px;
+    font-size: 20px;
+}
+.op4{
+    display: flex;
+}
+.op4 img{
+    width: 400px;
+    height: 200px;
+   
+}
+.op4 a{
+    margin-top: 150px;
+    font-size: 20px;
+   margin-left: 30px;
+}
+
+.ggt{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 40px;
+}
+.op h1{
+    margin-left: 500px;
+}
